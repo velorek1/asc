@@ -1,6 +1,10 @@
 # Asc
 Ascii Table in Freepascal with selection menu (TUI)
 
+*COMPILE*
+- Dowload or clone repository.
+- Type "fpc asc.pas" to build.
+
 These units use RTL (video and keyboard) for Text Mode. 
 
 I've created this only for fun and to learn programming. That's why they are full of mistakes and redundancies.
